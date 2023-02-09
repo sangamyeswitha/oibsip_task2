@@ -1,1 +1,2 @@
-# oibsip_task2
+# Calculator
+Creating a simple Calculator using HTML,CSS &amp; JAVASCRIPT
